@@ -1,6 +1,6 @@
-prosodic==1.6.1
-networkx==3.0
-numpy==1.22.4
-python-Levenshtein==0.20.9
-scipy==1.7.3
-tabulate==0.8.10
+prosodic==1.3.12
+networkx
+numpy
+python-Levenshtein
+scipy
+tabulate
